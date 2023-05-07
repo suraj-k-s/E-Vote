@@ -1,0 +1,23 @@
+.districttable {
+    table-layout: auto;
+    
+    border: 1;
+
+}
+.tdbold {
+    font-size: larger;
+    font-weight: bold;
+}
+.trbackground{
+    background-color: rgb(54, 54, 160);
+    
+}
+.tdpadding{
+    padding: 10px;
+}
+.namewidth{
+    width: 200px;
+}
+.actionwidth{
+    width: 150px;
+}
